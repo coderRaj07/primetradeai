@@ -148,6 +148,13 @@ After login, the navbar displays the user's name and role (e.g., `Admin (admin)`
 4. Click **Authorize** at the top, paste `Bearer <token>`, click **Authorize**.
 5. Now test any authenticated endpoint (GET /api/v1/tasks, POST /api/v1/tasks, etc.).
 
+### Test Credentials
+
+| Email               | Password      | Role  |
+|---------------------|---------------|-------|
+| `john@example.com`  | `password123` | admin |
+| `jane@example.com`  | `password123` | user  |
+
 ### Via curl (quick smoke test)
 
 ```bash
