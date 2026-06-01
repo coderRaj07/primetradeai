@@ -2,6 +2,8 @@
 
 A full-stack application with **JWT authentication**, **role-based access control**, and **CRUD operations** for tasks, built with FastAPI (Python), PostgreSQL, and React.
 
+🎥 **Demo**: [https://www.loom.com/share/ea6b75ee79c64fb5bf0548d1b4f98348](https://www.loom.com/share/ea6b75ee79c64fb5bf0548d1b4f98348)
+
 ## Project Structure
 
 ```
