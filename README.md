@@ -32,6 +32,12 @@ primetradeai/
     └── package.json
 ```
 
+## Live Deployments
+
+- **Frontend**: [https://primetradeai-35vp.vercel.app/](https://primetradeai-35vp.vercel.app/)
+- **Backend API**: [https://primetradeai-three.vercel.app/](https://primetradeai-three.vercel.app/)
+- **Swagger Docs**: [https://primetradeai-three.vercel.app/docs](https://primetradeai-three.vercel.app/docs)
+
 ## Tech Stack
 
 | Layer       | Technology                         |
